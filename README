@@ -1,2 +1,10 @@
 AIRBRAKE CODE: 
+Objectives for airbrake code: 
 
+Using sensor data, we will be calculating predicted velocity/height based on our instanaeous velocity and altitude. The equations we generated from Opensim rocket simulations will be utilized to ensure that our instantaneous velocity is going to overshoot or undershoot our altitude goal of 10000. 
+
+Functions to create: 
+-getVeloctiy
+-getAltitude
+
+Potential issue: Will the recovery system altimeter ignite if apogee isn't met? 
