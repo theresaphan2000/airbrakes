@@ -7,4 +7,13 @@ Functions to create:
 -getVeloctiy
 -getAltitude
 
-Potential issue: Will the recovery system altimeter ignite if apogee isn't met? 
+Potential issue: Will the recovery system altimeter ignite if apogee isn't met?
+
+Use dev branch for work in progress. Master is for fully working code
+
+
+getVelocity(a1,a2); return(velocity)
+
+getTargetVelocity(velocity);
+return(targetVelocity); 
+printData(); 
