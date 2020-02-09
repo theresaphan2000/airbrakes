@@ -17,3 +17,4 @@ getVelocity(a1,a2); return(velocity)
 getTargetVelocity(velocity);
 return(targetVelocity); 
 printData(); 
+After doing so, compare if undershoot or overshoot
